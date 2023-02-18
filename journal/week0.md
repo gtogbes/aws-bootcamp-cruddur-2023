@@ -71,7 +71,7 @@ The image below is the architecture of the micro blogging app
 - Use as much as possible the aws free tier
 - Momento as a third party caching system
 
-![Architecture image](https://lucid.app/lucidchart/ba9632e8-515a-4b6f-925e-281ef34de206/edit?viewport_loc=-170%2C-74%2C2699%2C1354%2C0_0&invitationId=inv_35b17d03-463c-41ef-83f8-c47fdf94efa2)
+![The Napkin Architecture image](https://github.com/gtogbes/aws-bootcamp-cruddur-2023/blob/main/GT%20Cruddur%20Napkin.png)
 
 To view the Napkin Diagram please check the following link https://lucid.app/lucidchart/ba9632e8-515a-4b6f-925e-281ef34de206/edit?viewport_loc=-170%2C-74%2C2699%2C1354%2C0_0&invitationId=inv_35b17d03-463c-41ef-83f8-c47fdf94efa2
 
