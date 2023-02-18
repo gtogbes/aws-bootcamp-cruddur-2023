@@ -19,7 +19,7 @@ Once you registered with all of the services, you can go for the assignment for 
 
 # Week 0 — Billing, Architecture, Security
 
-This week the team will be discussing the billing architecture security.
+This week is centered around billing, budgeting and architecture. Brief overview is shown below:
 
 The pricing of aws services is vary depending on the region. Make sure to use the region close to you and see if all services you will utilise are available for the region.
 And also make sure you set the billing alarm so you don't have unexpected costs. Since my account is more than 1 year old, I can not use anymore the free tier but I have plenty of AWS credit I can use against all services (check always if your aws credit is usable for the specific aws service)
