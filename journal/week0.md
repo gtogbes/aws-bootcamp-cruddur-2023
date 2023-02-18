@@ -71,9 +71,9 @@ The image below is the architecture of the micro blogging app
 - Use as much as possible the aws free tier
 - Momento as a third party caching system
 
-![Architecture image](image link)
+![Architecture image](https://lucid.app/lucidchart/ba9632e8-515a-4b6f-925e-281ef34de206/edit?viewport_loc=-170%2C-74%2C2699%2C1354%2C0_0&invitationId=inv_35b17d03-463c-41ef-83f8-c47fdf94efa2)
 
-To view the chart please check the following link 
+To view the Napkin Diagram please check the following link https://lucid.app/lucidchart/ba9632e8-515a-4b6f-925e-281ef34de206/edit?viewport_loc=-170%2C-74%2C2699%2C1354%2C0_0&invitationId=inv_35b17d03-463c-41ef-83f8-c47fdf94efa2
 
 
 
