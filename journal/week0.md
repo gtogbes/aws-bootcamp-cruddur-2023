@@ -153,4 +153,4 @@ A  trick that I learnt from Andrew is to activate the auto prompt.
 
 Since I am using gitpod as a program requirement, I installed AWS CLI in the Gitpod workspace, using the gitpod.yaml file.
 # Gitpod AWS CLI
-![The Napkin Architecture image] ()
+![Git Pod AWS CLI] (https://github.com/gtogbes/aws-bootcamp-cruddur-2023/blob/main/Screenshot%202023-02-18%20at%2009.33.45.png)
