@@ -290,3 +290,7 @@ aws dynamodb list-tables --endpoint-url http://localhost:8000
 aws dynamodb scan --table-name Music --query "Items" --endpoint-url http://localhost:8000
 
 ```
+
+## After successful setup, the frontend react app should look like the Image below
+
+![Frontend React.js App](https://docs.docker.com/engine/images/architecture.svg)
