@@ -1,7 +1,5 @@
 # Week 1 — App Containerization
 
-# Week 1 — App Containerization
-
 ## **Security on Container**
 
 This week was about docker containers, app containerization and the best practices implementations.
