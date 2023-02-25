@@ -293,4 +293,4 @@ aws dynamodb scan --table-name Music --query "Items" --endpoint-url http://local
 
 ## After successful setup, the frontend react app should look like the Image below
 
-![Frontend React.js App](https://docs.docker.com/engine/images/architecture.svg)
+![Frontend React.js App](https://github.com/gtogbes/aws-bootcamp-cruddur-2023/blob/main/Images/Screenshot%202023-02-25%20at%2014.41.42.png)
