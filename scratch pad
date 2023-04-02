@@ -1,0 +1,12 @@
+sgr-00c60308c60ffef0f
+
+export DB_SG_ID=""
+gp env DB_SG_ID=""
+export DB_SG_RULE_ID=""
+gp env DB_SG_RULE_ID=""
+
+# Update DB SecurityGroupRule
+
+aws ec2 modify-security-group-rules \
+    --group-id $DB_SG_ID \
+    --security-group-rules "SecurityGroupRuleId=$DB_SG_RULE_ID,SecurityGroupRule={IpProtocol=tcp,FromPort=5432,ToPort=5432,CidrIpv4=$GITPOD_IP/32}"
