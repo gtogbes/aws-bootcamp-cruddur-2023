@@ -1,5 +1,12 @@
 # Week 4 — Postgres and RDS
+This week I accomplished task listed on the week four to do, 
+I implemented home/activities page to show the name of user that made a post
+Created a lambda function and used a lambda layer to created cognito user data in RDS.
+Successfully got user to show up in RDS database, this was validated by querying the database to return all users
 
+
+# INSTRUCTIONS AND STEPS
+* This instruction is from Omenking repo Journal 
 
 To connect to psql via the psql client cli tool remember to use the host flag to specific localhost.
 
